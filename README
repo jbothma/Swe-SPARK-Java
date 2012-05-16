@@ -1,0 +1,4 @@
+Java NP chunker for Swedish.
+A Java implementation of Beáta Megyesi's Python Swedish Chunker.
+
+http://stp.lingfil.uu.se/~bea/resources/spark/
